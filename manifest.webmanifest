@@ -20,7 +20,7 @@
         }
     ],
     "b2g_features": {
-        
+	"type": "web",        
         "permissions": {
 	 	"geolocation": {}
 
