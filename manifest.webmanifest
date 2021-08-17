@@ -1,0 +1,30 @@
+{
+    "id": "Car-race-App",
+    "name": "Car race",
+    "short_name": "Car race",
+    "description": "Car race",
+    "lang": "en-US",
+    "theme_color": "#ffffff",
+    "orientation": "natural",
+    "start_url": "/index.html",
+    "icons": [
+        {
+            "src": "/assets/icons/kaios_56.png",
+            "type": "image/png",
+            "sizes": "56x56"
+        },
+        {
+            "src": "/assets/icons/kaios_112.png",
+            "type": "image/png",
+            "sizes": "112x112"
+        }
+    ],
+    "b2g_features": {
+        
+        "permissions": {
+	 	"geolocation": {}
+
+	},
+        "version": "1.0.0"
+    }
+}
